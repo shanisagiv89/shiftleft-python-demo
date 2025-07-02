@@ -7,7 +7,7 @@ on:
 env:
   CORTEX_API_KEY: ${{secrets.CORTEX_API_KEY}}
   CORTEX_API_KEY_ID: ${{secrets.CORTEX_API_KEY_ID}}
-  CORTEX_API_URL: https://api-viso-cdcnwwxrmncwbfughcngeh.xdr-qa2-uat.us.paloaltonetworks.com
+  CORTEX_API_URL: https://api-viso-5adfokiuhwfkn7icsitsqd.xdr-qa2-uat.us.paloaltonetworks.com
   CORTEX_CLI_VERSION: 0.12.2
 jobs:
   cortex-code-scan:
